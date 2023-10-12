@@ -1,0 +1,194 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LogicCalculate",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Calculate",
+        "printedName": "Calculate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "plus",
+            "printedName": "plus(n1:n2:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14LogicCalculate0B0C4plus2n12n2S2i_SitFZ",
+            "mangledName": "$s14LogicCalculate0B0C4plus2n12n2S2i_SitFZ",
+            "moduleName": "LogicCalculate",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "minus",
+            "printedName": "minus(n1:n2:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14LogicCalculate0B0C5minus2n12n2S2i_SitFZ",
+            "mangledName": "$s14LogicCalculate0B0C5minus2n12n2S2i_SitFZ",
+            "moduleName": "LogicCalculate",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:14LogicCalculate0B0C",
+        "mangledName": "$s14LogicCalculate0B0C",
+        "moduleName": "LogicCalculate",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LogicCalculate",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "LogicCalculate"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MiniAppGateway",
+        "printedName": "MiniAppGateway",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "GenericTypeParam",
+                "printedName": "τ_0_0"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:14LogicCalculate14MiniAppGatewayPxycfc",
+            "mangledName": "$s14LogicCalculate14MiniAppGatewayPxycfc",
+            "moduleName": "LogicCalculate",
+            "genericSig": "<τ_0_0 where τ_0_0 : LogicCalculate.MiniAppGateway>",
+            "sugared_genericSig": "<Self where Self : LogicCalculate.MiniAppGateway>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "OpenView",
+            "printedName": "OpenView(openView:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AnyView",
+                "printedName": "SwiftUI.AnyView",
+                "usr": "s:7SwiftUI7AnyViewV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Binding",
+                "printedName": "SwiftUI.Binding<Swift.Bool>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:7SwiftUI7BindingV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14LogicCalculate14MiniAppGatewayP8OpenView04openG07SwiftUI03AnyG0VAF7BindingVySbG_tF",
+            "mangledName": "$s14LogicCalculate14MiniAppGatewayP8OpenView04openG07SwiftUI03AnyG0VAF7BindingVySbG_tF",
+            "moduleName": "LogicCalculate",
+            "genericSig": "<τ_0_0 where τ_0_0 : LogicCalculate.MiniAppGateway>",
+            "sugared_genericSig": "<Self where Self : LogicCalculate.MiniAppGateway>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:14LogicCalculate14MiniAppGatewayP",
+        "mangledName": "$s14LogicCalculate14MiniAppGatewayP",
+        "moduleName": "LogicCalculate",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}

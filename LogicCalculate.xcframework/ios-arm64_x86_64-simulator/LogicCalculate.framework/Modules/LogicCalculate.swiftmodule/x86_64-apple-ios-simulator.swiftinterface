@@ -1,0 +1,19 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
+// swift-module-flags: -target x86_64-apple-ios16.4-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name LogicCalculate
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import Foundation
+@_exported import LogicCalculate
+import Swift
+import SwiftUI
+import _Concurrency
+import _StringProcessing
+@_hasMissingDesignatedInitializers public class Calculate {
+  public static func plus(n1: Swift.Int, n2: Swift.Int) -> Swift.Int
+  public static func minus(n1: Swift.Int, n2: Swift.Int) -> Swift.Int
+  @objc deinit
+}
+public protocol MiniAppGateway {
+  init()
+  func OpenView(openView: SwiftUI.Binding<Swift.Bool>) -> SwiftUI.AnyView
+}

@@ -1,0 +1,11 @@
+framework module LogicCalculate {
+  umbrella header "LogicCalculate.h"
+
+  export *
+  module * { export * }
+}
+
+module LogicCalculate.Swift {
+  header "LogicCalculate-Swift.h"
+  requires objc
+}
