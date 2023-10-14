@@ -180,8 +180,8 @@
           },
           {
             "kind": "Function",
-            "name": "OpenView",
-            "printedName": "OpenView(openView:title:)",
+            "name": "OpenView2",
+            "printedName": "OpenView2(openView:title:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -211,8 +211,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:14LogicCalculate14MiniAppGatewayP8OpenView04openG05title7SwiftUI03AnyG0VAG7BindingVySbG_SStF",
-            "mangledName": "$s14LogicCalculate14MiniAppGatewayP8OpenView04openG05title7SwiftUI03AnyG0VAG7BindingVySbG_SStF",
+            "usr": "s:14LogicCalculate14MiniAppGatewayP9OpenView28openView5title7SwiftUI03AnyI0VAG7BindingVySbG_SStF",
+            "mangledName": "$s14LogicCalculate14MiniAppGatewayP9OpenView28openView5title7SwiftUI03AnyI0VAG7BindingVySbG_SStF",
             "moduleName": "LogicCalculate",
             "genericSig": "<τ_0_0 where τ_0_0 : LogicCalculate.MiniAppGateway>",
             "sugared_genericSig": "<Self where Self : LogicCalculate.MiniAppGateway>",
