@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/LogicCalculate.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		hG/Bmsm68skzBaNw9RMU/pVnGt4=
+		vXQH3kLKdD0NH7daLy4teEzhEBI=
 		</data>
 		<key>Modules/LogicCalculate.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		IDXUI8iZ33f32P5HLxc2wlFMbio=
+		2bQf9q4RCJWoV5OMzn/QYNLsr2w=
 		</data>
 		<key>Modules/LogicCalculate.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/LogicCalculate.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		IDXUI8iZ33f32P5HLxc2wlFMbio=
+		2bQf9q4RCJWoV5OMzn/QYNLsr2w=
 		</data>
 		<key>Modules/LogicCalculate.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		BsWY0sd71ydlOeSXCii/m4aT08c=
+		Hh9fw1N/iwSSU/LUiFTuilWDCaI=
 		</data>
 		<key>Modules/LogicCalculate.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		hG/Bmsm68skzBaNw9RMU/pVnGt4=
+		vXQH3kLKdD0NH7daLy4teEzhEBI=
 		</data>
 		<key>Modules/LogicCalculate.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		OFFOU7l7uE/CPXfCQGKozYlIJF8=
+		qeNVE5JgDLz+KCt6F3qKtq709Wk=
 		</data>
 		<key>Modules/LogicCalculate.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/LogicCalculate.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		OFFOU7l7uE/CPXfCQGKozYlIJF8=
+		qeNVE5JgDLz+KCt6F3qKtq709Wk=
 		</data>
 		<key>Modules/LogicCalculate.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		00suNz+1cSs1snvJaq65p1O8jEI=
+		MhItTJwCIIi8jHPsMqtDsfl10bI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ptg++xu4ZLp4c34F2LtkuXr8xsArMQgXs/UpXrNGtWI=
+			xeGbT9rbAdWGoNqK9uTUtF93978yQq9aZSvunS6yPMg=
 			</data>
 		</dict>
 		<key>Modules/LogicCalculate.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SqEQDk85Jdlx5cs4Iir0HbawpPhAOXkyQJlo0q7dMRc=
+			rD7MVlo3ABx5VNjt1ljaiS4Clz4XnL1U0KbRcThqcWk=
 			</data>
 		</dict>
 		<key>Modules/LogicCalculate.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SqEQDk85Jdlx5cs4Iir0HbawpPhAOXkyQJlo0q7dMRc=
+			rD7MVlo3ABx5VNjt1ljaiS4Clz4XnL1U0KbRcThqcWk=
 			</data>
 		</dict>
 		<key>Modules/LogicCalculate.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dpX1n9RGsa3Ccjxckv27EjxvG7l5q3otum96YyPdj2Q=
+			fvMnzCpESybLlRAu3xDomwyMXfj+LUuqNM2HpCHuEMQ=
 			</data>
 		</dict>
 		<key>Modules/LogicCalculate.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ptg++xu4ZLp4c34F2LtkuXr8xsArMQgXs/UpXrNGtWI=
+			xeGbT9rbAdWGoNqK9uTUtF93978yQq9aZSvunS6yPMg=
 			</data>
 		</dict>
 		<key>Modules/LogicCalculate.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+JQKbCfLG1l72RMuI2rQloVR8higE7fLcRnvoq6t41s=
+			jeK9qM8SfxbbW7/WEdislaDG5HB6iGe8kADHRbKQxpo=
 			</data>
 		</dict>
 		<key>Modules/LogicCalculate.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+JQKbCfLG1l72RMuI2rQloVR8higE7fLcRnvoq6t41s=
+			jeK9qM8SfxbbW7/WEdislaDG5HB6iGe8kADHRbKQxpo=
 			</data>
 		</dict>
 		<key>Modules/LogicCalculate.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cPIGaPU6Q9aaTIP2RKe+wuYOw2f1F6drzSBAvQcGm68=
+			jdvlbsyvKQ7ykYh8Im04ygfZt4ysGIh/INYTdc9d9oc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

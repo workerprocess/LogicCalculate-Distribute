@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/LogicCalculate.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		hG/Bmsm68skzBaNw9RMU/pVnGt4=
+		vXQH3kLKdD0NH7daLy4teEzhEBI=
 		</data>
 		<key>Modules/LogicCalculate.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		Hw20tP08o5HgyISAOIhkAeM1/0A=
+		3XUwBKIFfKSwsuTDZ9J1Fj/Bm5w=
 		</data>
 		<key>Modules/LogicCalculate.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/LogicCalculate.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Hw20tP08o5HgyISAOIhkAeM1/0A=
+		3XUwBKIFfKSwsuTDZ9J1Fj/Bm5w=
 		</data>
 		<key>Modules/LogicCalculate.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		7xnuzgwnQP25MfWGcX0Lj3le/cM=
+		/pacO6W7Bf9n7u6GNbnE7T9LRAA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,14 +61,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ptg++xu4ZLp4c34F2LtkuXr8xsArMQgXs/UpXrNGtWI=
+			xeGbT9rbAdWGoNqK9uTUtF93978yQq9aZSvunS6yPMg=
 			</data>
 		</dict>
 		<key>Modules/LogicCalculate.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wPwq5xSBA0ob0+fwkP2PZ9Xex4IToBpfkZVqQBiZrik=
+			Lp7MOk1mG/4SsMdDw2d6YM0wMKMjHPMc0BFSuEBNe38=
 			</data>
 		</dict>
 		<key>Modules/LogicCalculate.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -82,14 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wPwq5xSBA0ob0+fwkP2PZ9Xex4IToBpfkZVqQBiZrik=
+			Lp7MOk1mG/4SsMdDw2d6YM0wMKMjHPMc0BFSuEBNe38=
 			</data>
 		</dict>
 		<key>Modules/LogicCalculate.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wfmXEJKFCytxjzCEzBDlW1bF/VkpXzlQh3ZjTCEhMHs=
+			22D2NgTnPbXSaA6AMe/YUwyci/HezFIzxHZrMEz0TOQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
